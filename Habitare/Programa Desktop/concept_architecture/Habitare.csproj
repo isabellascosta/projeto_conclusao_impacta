@@ -1,0 +1,391 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4A9FA922-2816-469F-80ED-8189FEC7C9E3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>concept_architecture</RootNamespace>
+    <AssemblyName>concept_architecture</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.3.0, Culture=neutral, PublicKeyToken=0e99375e54769942">
+      <HintPath>..\packages\BouncyCastle.1.8.3.1\lib\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Protobuf, Version=3.6.1.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604, processorArchitecture=MSIL">
+      <HintPath>..\packages\Google.Protobuf.3.6.1\lib\net45\Google.Protobuf.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Compression.LZ4, Version=1.1.11.0, Culture=neutral, PublicKeyToken=2186fa9121ef231d, processorArchitecture=MSIL">
+      <HintPath>..\packages\K4os.Compression.LZ4.1.1.11\lib\net46\K4os.Compression.LZ4.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Compression.LZ4.Streams, Version=1.1.11.0, Culture=neutral, PublicKeyToken=2186fa9121ef231d, processorArchitecture=MSIL">
+      <HintPath>..\packages\K4os.Compression.LZ4.Streams.1.1.11\lib\net46\K4os.Compression.LZ4.Streams.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Hash.xxHash, Version=1.0.6.0, Culture=neutral, PublicKeyToken=32cd54395057cec3, processorArchitecture=MSIL">
+      <HintPath>..\packages\K4os.Hash.xxHash.1.0.6\lib\net46\K4os.Hash.xxHash.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=8.0.21.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.8.0.21\lib\net452\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data.Entity.EF6, Version=6.10.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.Entity.6.10.9\lib\net452\MySql.Data.Entity.EF6.dll</HintPath>
+    </Reference>
+    <Reference Include="Renci.SshNet, Version=2016.1.0.0, Culture=neutral, PublicKeyToken=1cee9f8bde3db106, processorArchitecture=MSIL">
+      <HintPath>..\packages\SSH.NET.2016.1.0\lib\net40\Renci.SshNet.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.0\lib\netstandard2.0\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.3\lib\netstandard2.0\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.4.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=4.0.5.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.4.6.0\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Ubiety.Dns.Core, Version=2.2.1.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.8.0.21\lib\net452\Ubiety.Dns.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Zstandard.Net, Version=1.1.7.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.8.0.21\lib\net452\Zstandard.Net.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\Agendamento.cs" />
+    <Compile Include="Classes\Cliente.cs" />
+    <Compile Include="Classes\Conexao.cs" />
+    <Compile Include="Classes\Funcionario.cs" />
+    <Compile Include="Classes\Orcamento.cs" />
+    <Compile Include="Classes\Projeto.cs" />
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="projetos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="projetos.Designer.cs">
+      <DependentUpon>projetos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Resources\pedido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resources\pedido.Designer.cs">
+      <DependentUpon>pedido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tela_Agendamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela_Agendamento.Designer.cs">
+      <DependentUpon>Tela_Agendamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tela_cliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela_cliente.Designer.cs">
+      <DependentUpon>Tela_cliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tela_funcionarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela_funcionarios.Designer.cs">
+      <DependentUpon>Tela_funcionarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tela_inicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela_inicio.Designer.cs">
+      <DependentUpon>Tela_inicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tela_orcamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela_orcamento.Designer.cs">
+      <DependentUpon>Tela_orcamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tela_projeto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela_projeto.Designer.cs">
+      <DependentUpon>Tela_projeto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tela_sobre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela_sobre.Designer.cs">
+      <DependentUpon>Tela_sobre.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="projetos.resx">
+      <DependentUpon>projetos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Resources\pedido.resx">
+      <DependentUpon>pedido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tela_Agendamento.resx">
+      <DependentUpon>Tela_Agendamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tela_cliente.resx">
+      <DependentUpon>Tela_cliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tela_funcionarios.resx">
+      <DependentUpon>Tela_funcionarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tela_inicio.resx">
+      <DependentUpon>Tela_inicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tela_orcamento.resx">
+      <DependentUpon>Tela_orcamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tela_projeto.resx">
+      <DependentUpon>Tela_projeto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tela_sobre.resx">
+      <DependentUpon>Tela_sobre.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Nova pasta\casas-modernas4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Nova pasta\6_1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Nova pasta\icon\funcionarios.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Nova pasta\icon\orçamento.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Nova pasta\icon\pedido.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Nova pasta\icon\fornecedor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Nova pasta\icon\produtos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Nova pasta\fundo marrom.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\book.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\typewriter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Empresarial.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clientes_orçamento.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\projetos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\projetos1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pedido dos cliente.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pedido dos cliente%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fornecedores.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sobre_nos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nem sei.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Nova pasta\logo_CA.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1 tela_func.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\setores.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\id-card.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fundo cadastro\2079.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img02.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EXIT.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sla.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lixo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\alterar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\my-icons-collection\png\006-employee.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\my-icons-collection\png\003-invoice.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\my-icons-collection\png\002-credit-card.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\my-icons-collection\png\004-project-management.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\my-icons-collection\png\005-marketing.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\my-icons-collection\png\001-value.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\41.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ISABELLA - Projeto de Conclusão de Curso.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ISABELLA - Projeto de Conclusão de Curso1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ISABELLA - Projeto de Conclusão de Curso2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ISABELLA - Projeto de Conclusão de Curso250.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

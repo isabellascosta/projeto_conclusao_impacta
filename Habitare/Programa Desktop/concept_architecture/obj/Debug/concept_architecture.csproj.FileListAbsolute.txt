@@ -1,0 +1,1152 @@
+C:\Users\isabella.scosta2\source\repos\concept_architecture\concept_architecture\bin\Debug\concept_architecture.exe.config
+C:\Users\isabella.scosta2\source\repos\concept_architecture\concept_architecture\bin\Debug\concept_architecture.exe
+C:\Users\isabella.scosta2\source\repos\concept_architecture\concept_architecture\bin\Debug\concept_architecture.pdb
+C:\Users\isabella.scosta2\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.csprojAssemblyReference.cache
+C:\Users\isabella.scosta2\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.Form1.resources
+C:\Users\isabella.scosta2\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.Properties.Resources.resources
+C:\Users\isabella.scosta2\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.csproj.GenerateResource.cache
+C:\Users\isabella.scosta2\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.csproj.CoreCompileInputs.cache
+C:\Users\isabella.scosta2\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.exe
+C:\Users\isabella.scosta2\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.pdb
+E:\Concept architecure\app\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.csprojAssemblyReference.cache
+E:\Concept architecure\app\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.Form1.resources
+E:\Concept architecure\app\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.fornecedor.resources
+E:\Concept architecure\app\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.funcionario.resources
+E:\Concept architecure\app\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.menu.resources
+E:\Concept architecure\app\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.produtos.resources
+E:\Concept architecure\app\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.Properties.Resources.resources
+E:\Concept architecure\app\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.csproj.GenerateResource.cache
+E:\Concept architecure\app\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.csproj.CoreCompileInputs.cache
+E:\Concept architecure\app\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.exe
+E:\Concept architecure\app\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.pdb
+C:\Users\isabella.scosta2\Downloads\source-20190919T114941Z-001\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.csprojAssemblyReference.cache
+C:\Users\isabella.scosta2\Downloads\source-20190919T114941Z-001\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.exe
+C:\Users\isabella.scosta2\Downloads\source-20190919T114941Z-001\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.pdb
+C:\Users\isabella.scosta2\source-20190919T114941Z-001\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.csprojAssemblyReference.cache
+C:\Users\isabella.scosta2\source-20190919T114941Z-001\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.exe
+C:\Users\isabella.scosta2\source-20190919T114941Z-001\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.pdb
+E:\Concept architecure\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.csprojAssemblyReference.cache
+E:\Concept architecure\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.cliente.resources
+E:\Concept architecure\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.fornecedor.resources
+E:\Concept architecure\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.menu.resources
+E:\Concept architecure\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.produtos.resources
+E:\Concept architecure\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.Properties.Resources.resources
+E:\Concept architecure\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.csproj.GenerateResource.cache
+E:\Concept architecure\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.csproj.CoreCompileInputs.cache
+E:\Concept architecure\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.exe
+E:\Concept architecure\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.pdb
+E:\Concept architecure\source\repos\concept_architecture\concept_architecture\bin\Debug\concept_architecture.exe.config
+E:\Concept architecure\source\repos\concept_architecture\concept_architecture\bin\Debug\concept_architecture.exe
+E:\Concept architecure\source\repos\concept_architecture\concept_architecture\bin\Debug\concept_architecture.pdb
+E:\Concept architecure\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.tela_Cliente.resources
+E:\Concept architecure\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.inicio.resources
+E:\Concept architecure\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.tela_pedidos.resources
+E:\Concept architecure\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.tela_produtos.resources
+E:\Concept architecure\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.tela_sobre.resources
+E:\Concept architecure\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.tela_orcam.resources
+E:\Concept architecure\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.tela_func.resources
+C:\Users\isabella.scosta2\Desktop\Concept\source\repos\concept_architecture\concept_architecture\bin\Debug\concept_architecture.exe.config
+C:\Users\isabella.scosta2\Desktop\Concept\source\repos\concept_architecture\concept_architecture\bin\Debug\concept_architecture.exe
+C:\Users\isabella.scosta2\Desktop\Concept\source\repos\concept_architecture\concept_architecture\bin\Debug\concept_architecture.pdb
+C:\Users\isabella.scosta2\Desktop\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.csprojAssemblyReference.cache
+C:\Users\isabella.scosta2\Desktop\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.cliente.resources
+C:\Users\isabella.scosta2\Desktop\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.fornecedor.resources
+C:\Users\isabella.scosta2\Desktop\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.funcionarios.resources
+C:\Users\isabella.scosta2\Desktop\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.menu.resources
+C:\Users\isabella.scosta2\Desktop\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.orcamento.resources
+C:\Users\isabella.scosta2\Desktop\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.pedido.resources
+C:\Users\isabella.scosta2\Desktop\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.produtos.resources
+C:\Users\isabella.scosta2\Desktop\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.Properties.Resources.resources
+C:\Users\isabella.scosta2\Desktop\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.Resources.pedido.resources
+C:\Users\isabella.scosta2\Desktop\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.tela_Cliente.resources
+C:\Users\isabella.scosta2\Desktop\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.tela_func.resources
+C:\Users\isabella.scosta2\Desktop\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.inicio.resources
+C:\Users\isabella.scosta2\Desktop\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.tela_orcam.resources
+C:\Users\isabella.scosta2\Desktop\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.tela_pedidos.resources
+C:\Users\isabella.scosta2\Desktop\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.tela_produtos.resources
+C:\Users\isabella.scosta2\Desktop\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.tela_sobre.resources
+C:\Users\isabella.scosta2\Desktop\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.csproj.GenerateResource.cache
+C:\Users\isabella.scosta2\Desktop\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.csproj.CoreCompileInputs.cache
+C:\Users\isabella.scosta2\Desktop\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.exe
+C:\Users\isabella.scosta2\Desktop\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.pdb
+C:\Users\Isabella\Desktop\atualizada\Concept\source\repos\concept_architecture\concept_architecture\bin\Debug\concept_architecture.exe.config
+C:\Users\Isabella\Desktop\atualizada\Concept\source\repos\concept_architecture\concept_architecture\bin\Debug\concept_architecture.exe
+C:\Users\Isabella\Desktop\atualizada\Concept\source\repos\concept_architecture\concept_architecture\bin\Debug\concept_architecture.pdb
+C:\Users\Isabella\Desktop\atualizada\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.csprojAssemblyReference.cache
+C:\Users\Isabella\Desktop\atualizada\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.cliente.resources
+C:\Users\Isabella\Desktop\atualizada\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.fornecedor.resources
+C:\Users\Isabella\Desktop\atualizada\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.funcionarios.resources
+C:\Users\Isabella\Desktop\atualizada\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.menu.resources
+C:\Users\Isabella\Desktop\atualizada\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.orcamento.resources
+C:\Users\Isabella\Desktop\atualizada\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.pedido.resources
+C:\Users\Isabella\Desktop\atualizada\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.produtos.resources
+C:\Users\Isabella\Desktop\atualizada\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.Properties.Resources.resources
+C:\Users\Isabella\Desktop\atualizada\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.Resources.pedido.resources
+C:\Users\Isabella\Desktop\atualizada\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.tela_Cliente.resources
+C:\Users\Isabella\Desktop\atualizada\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.tela_func.resources
+C:\Users\Isabella\Desktop\atualizada\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.inicio.resources
+C:\Users\Isabella\Desktop\atualizada\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.tela_orcam.resources
+C:\Users\Isabella\Desktop\atualizada\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.tela_pedidos.resources
+C:\Users\Isabella\Desktop\atualizada\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.tela_produtos.resources
+C:\Users\Isabella\Desktop\atualizada\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.tela_sobre.resources
+C:\Users\Isabella\Desktop\atualizada\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.csproj.GenerateResource.cache
+C:\Users\Isabella\Desktop\atualizada\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.csproj.CoreCompileInputs.cache
+C:\Users\Isabella\Desktop\atualizada\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.exe
+C:\Users\Isabella\Desktop\atualizada\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.pdb
+C:\Users\Isabella\Desktop\atualizada\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.Login.resources
+E:\pendrive\atualizada\Concept\source\repos\concept_architecture\concept_architecture\bin\Debug\concept_architecture.exe.config
+E:\pendrive\atualizada\Concept\source\repos\concept_architecture\concept_architecture\bin\Debug\concept_architecture.exe
+E:\pendrive\atualizada\Concept\source\repos\concept_architecture\concept_architecture\bin\Debug\concept_architecture.pdb
+E:\pendrive\atualizada\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.csprojAssemblyReference.cache
+E:\pendrive\atualizada\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.cliente.resources
+E:\pendrive\atualizada\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.fornecedor.resources
+E:\pendrive\atualizada\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.funcionarios.resources
+E:\pendrive\atualizada\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.Login.resources
+E:\pendrive\atualizada\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.menu.resources
+E:\pendrive\atualizada\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.orcamento.resources
+E:\pendrive\atualizada\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.pedido.resources
+E:\pendrive\atualizada\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.produtos.resources
+E:\pendrive\atualizada\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.Properties.Resources.resources
+E:\pendrive\atualizada\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.Resources.pedido.resources
+E:\pendrive\atualizada\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.tela_Cliente.resources
+E:\pendrive\atualizada\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.tela_func.resources
+E:\pendrive\atualizada\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.inicio.resources
+E:\pendrive\atualizada\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.tela_orcam.resources
+E:\pendrive\atualizada\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.tela_pedidos.resources
+E:\pendrive\atualizada\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.tela_sobre.resources
+E:\pendrive\atualizada\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.csproj.GenerateResource.cache
+E:\pendrive\atualizada\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.csproj.CoreCompileInputs.cache
+E:\pendrive\atualizada\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.exe
+E:\pendrive\atualizada\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.pdb
+E:\pendrive\atualizada\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.Agendamento_cliente.resources
+E:\pendrive\atualizada\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.orcamento_empre.resources
+E:\pendrive\atualizada\Concept\source\repos\concept_architecture\concept_architecture\obj\Debug\concept_architecture.projetos.resources
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\concept_architecture.exe.config
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\concept_architecture.exe
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\concept_architecture.pdb
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\obj\Debug\concept_architecture.csprojAssemblyReference.cache
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\obj\Debug\concept_architecture.Login.resources
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\obj\Debug\concept_architecture.Menu.resources
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\obj\Debug\concept_architecture.projetos.resources
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\obj\Debug\concept_architecture.Properties.Resources.resources
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\obj\Debug\concept_architecture.Resources.pedido.resources
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\obj\Debug\concept_architecture.Tela_cliente.resources
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\obj\Debug\concept_architecture.Tela_funcionarios.resources
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\obj\Debug\concept_architecture.inicio.resources
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\obj\Debug\concept_architecture.Tela_orcamento.resources
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\obj\Debug\concept_architecture.Tela_projeto.resources
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\obj\Debug\concept_architecture.Tela_sobre.resources
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\obj\Debug\concept_architecture.csproj.GenerateResource.cache
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\obj\Debug\concept_architecture.csproj.CoreCompileInputs.cache
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\obj\Debug\concept_architecture.exe
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\obj\Debug\concept_architecture.pdb
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\obj\Debug\concept_architecture.Tela_Agendamento.resources
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\netstandard.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.AppContext.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Collections.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.ComponentModel.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Console.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Data.Common.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Globalization.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.IO.Compression.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.IO.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.IO.Pipes.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Linq.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Net.Http.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Net.Ping.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Net.Primitives.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Net.Requests.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Net.Security.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Net.Sockets.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.ObjectModel.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Reflection.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Resources.Reader.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Resources.Writer.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Runtime.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Security.Claims.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Security.Principal.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Security.SecureString.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Text.Encoding.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Threading.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Threading.Thread.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Threading.Timer.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.ValueTuple.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Xml.XPath.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\EntityFramework.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\Google.Protobuf.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\MySql.Data.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\Renci.SshNet.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Buffers.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Memory.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\Zstandard.Net.dll
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\EntityFramework.xml
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\Google.Protobuf.xml
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\MySql.Data.xml
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\Renci.SshNet.xml
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Buffers.xml
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Memory.xml
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\obj\Debug\concept_architecture.exe.config
+C:\Users\Isabella\Desktop\concept_architecture\concept_architecture\obj\Debug\concept_architecture.csproj.CopyComplete
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\concept_architecture.exe.config
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\concept_architecture.exe
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\concept_architecture.pdb
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\netstandard.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.AppContext.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Collections.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.ComponentModel.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Console.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Data.Common.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Globalization.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.IO.Compression.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.IO.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.IO.Pipes.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Linq.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Net.Http.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Net.Ping.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Net.Primitives.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Net.Requests.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Net.Security.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Net.Sockets.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.ObjectModel.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Reflection.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Resources.Reader.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Resources.Writer.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Runtime.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Security.Claims.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Security.Principal.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Security.SecureString.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Text.Encoding.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Threading.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Threading.Thread.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Threading.Timer.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.ValueTuple.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Xml.XPath.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\EntityFramework.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\Google.Protobuf.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\MySql.Data.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\Renci.SshNet.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Buffers.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Memory.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\Zstandard.Net.dll
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\EntityFramework.xml
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\Google.Protobuf.xml
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\MySql.Data.xml
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\Renci.SshNet.xml
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Buffers.xml
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Memory.xml
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\obj\Debug\concept_architecture.csprojAssemblyReference.cache
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\obj\Debug\concept_architecture.exe.config
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\obj\Debug\concept_architecture.Login.resources
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\obj\Debug\concept_architecture.Menu.resources
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\obj\Debug\concept_architecture.projetos.resources
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\obj\Debug\concept_architecture.Properties.Resources.resources
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\obj\Debug\concept_architecture.Resources.pedido.resources
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\obj\Debug\concept_architecture.Tela_Agendamento.resources
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\obj\Debug\concept_architecture.Tela_cliente.resources
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\obj\Debug\concept_architecture.Tela_funcionarios.resources
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\obj\Debug\concept_architecture.inicio.resources
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\obj\Debug\concept_architecture.Tela_orcamento.resources
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\obj\Debug\concept_architecture.Tela_projeto.resources
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\obj\Debug\concept_architecture.Tela_sobre.resources
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\obj\Debug\concept_architecture.csproj.GenerateResource.cache
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\obj\Debug\concept_architecture.csproj.CoreCompileInputs.cache
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\obj\Debug\concept_architecture.csproj.CopyComplete
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\obj\Debug\concept_architecture.exe
+C:\Users\Isabella\Documents\DOCUMENTOS\Projeto Integrador\Programa Desktop\concept_architecture\concept_architecture\obj\Debug\concept_architecture.pdb
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\concept_architecture.exe.config
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\concept_architecture.exe
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\concept_architecture.pdb
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\netstandard.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.AppContext.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Collections.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.ComponentModel.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Console.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Data.Common.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Globalization.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.IO.Compression.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.IO.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.IO.Pipes.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Linq.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Net.Http.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Net.Ping.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Net.Primitives.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Net.Requests.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Net.Security.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Net.Sockets.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.ObjectModel.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Reflection.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Resources.Reader.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Resources.Writer.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Runtime.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Security.Claims.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Security.Principal.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Security.SecureString.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Text.Encoding.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Threading.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Threading.Thread.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Threading.Timer.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.ValueTuple.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Xml.XPath.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\EntityFramework.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\Google.Protobuf.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\MySql.Data.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\Renci.SshNet.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Buffers.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Memory.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\Zstandard.Net.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\EntityFramework.xml
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\Google.Protobuf.xml
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\MySql.Data.xml
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\Renci.SshNet.xml
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Buffers.xml
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Memory.xml
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\obj\Debug\concept_architecture.csprojAssemblyReference.cache
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\obj\Debug\concept_architecture.exe.config
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\obj\Debug\concept_architecture.Login.resources
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\obj\Debug\concept_architecture.Menu.resources
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\obj\Debug\concept_architecture.projetos.resources
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\obj\Debug\concept_architecture.Properties.Resources.resources
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\obj\Debug\concept_architecture.Resources.pedido.resources
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\obj\Debug\concept_architecture.Tela_Agendamento.resources
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\obj\Debug\concept_architecture.Tela_cliente.resources
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\obj\Debug\concept_architecture.Tela_funcionarios.resources
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\obj\Debug\concept_architecture.inicio.resources
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\obj\Debug\concept_architecture.Tela_orcamento.resources
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\obj\Debug\concept_architecture.Tela_projeto.resources
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\obj\Debug\concept_architecture.Tela_sobre.resources
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\obj\Debug\concept_architecture.csproj.GenerateResource.cache
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\obj\Debug\concept_architecture.csproj.CoreCompileInputs.cache
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\obj\Debug\concept_architecture.csproj.CopyComplete
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\obj\Debug\concept_architecture.exe
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado)\habitare\concept_architecture\obj\Debug\concept_architecture.pdb
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\concept_architecture.exe.config
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\concept_architecture.exe
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\concept_architecture.pdb
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\netstandard.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.AppContext.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Collections.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.ComponentModel.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Console.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Data.Common.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Globalization.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.IO.Compression.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.IO.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.IO.Pipes.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Linq.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Net.Http.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Net.Ping.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Net.Primitives.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Net.Requests.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Net.Security.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Net.Sockets.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.ObjectModel.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Reflection.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Resources.Reader.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Resources.Writer.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Runtime.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Security.Claims.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Security.Principal.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Security.SecureString.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Text.Encoding.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Threading.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Threading.Thread.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Threading.Timer.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.ValueTuple.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Xml.XPath.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\EntityFramework.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\Google.Protobuf.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\MySql.Data.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\Renci.SshNet.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Buffers.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Memory.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\Zstandard.Net.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\EntityFramework.xml
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\Google.Protobuf.xml
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\MySql.Data.xml
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\Renci.SshNet.xml
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Buffers.xml
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Memory.xml
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.csprojAssemblyReference.cache
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.exe.config
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.Login.resources
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.Menu.resources
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.projetos.resources
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.Properties.Resources.resources
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.Resources.pedido.resources
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.Tela_Agendamento.resources
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.Tela_cliente.resources
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.Tela_funcionarios.resources
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.inicio.resources
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.Tela_orcamento.resources
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.Tela_projeto.resources
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.Tela_sobre.resources
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.csproj.GenerateResource.cache
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.csproj.CoreCompileInputs.cache
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.csproj.CopyComplete
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.exe
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (novo versionado)\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.pdb
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\concept_architecture.exe.config
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\concept_architecture.exe
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\concept_architecture.pdb
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\netstandard.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.AppContext.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Collections.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.ComponentModel.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Console.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Data.Common.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Globalization.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.IO.Compression.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.IO.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.IO.Pipes.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Linq.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Net.Http.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Net.Ping.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Net.Primitives.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Net.Requests.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Net.Security.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Net.Sockets.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.ObjectModel.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Reflection.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Resources.Reader.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Resources.Writer.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Runtime.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Security.Claims.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Security.Principal.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Security.SecureString.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Text.Encoding.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Threading.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Threading.Thread.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Threading.Timer.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.ValueTuple.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Xml.XPath.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\EntityFramework.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\Google.Protobuf.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\MySql.Data.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\Renci.SshNet.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Buffers.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Memory.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\Zstandard.Net.dll
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\EntityFramework.xml
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\Google.Protobuf.xml
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\MySql.Data.xml
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\Renci.SshNet.xml
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Buffers.xml
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Memory.xml
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.csproj.AssemblyReference.cache
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.exe.config
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.Login.resources
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.Menu.resources
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.projetos.resources
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.Properties.Resources.resources
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.Resources.pedido.resources
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.Tela_Agendamento.resources
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.Tela_cliente.resources
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.Tela_funcionarios.resources
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.inicio.resources
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.Tela_orcamento.resources
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.Tela_projeto.resources
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.Tela_sobre.resources
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.csproj.GenerateResource.cache
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.csproj.CopyComplete
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.exe
+C:\Users\Gabriel DEV\Desktop\PROJETO FINAL\CODIGO\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.pdb
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\concept_architecture.exe.config
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\concept_architecture.exe
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\concept_architecture.pdb
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\netstandard.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.AppContext.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Collections.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.ComponentModel.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Console.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Data.Common.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Globalization.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.IO.Compression.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.IO.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.IO.Pipes.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Linq.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Net.Http.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Net.Ping.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Net.Primitives.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Net.Requests.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Net.Security.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Net.Sockets.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.ObjectModel.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Reflection.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Resources.Reader.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Resources.Writer.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Runtime.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Security.Claims.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Security.Principal.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Security.SecureString.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Text.Encoding.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Threading.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Threading.Thread.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Threading.Timer.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.ValueTuple.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Xml.XPath.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\EntityFramework.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\Google.Protobuf.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\MySql.Data.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\Renci.SshNet.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Buffers.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Memory.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\Zstandard.Net.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\EntityFramework.xml
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\Google.Protobuf.xml
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\MySql.Data.xml
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\Renci.SshNet.xml
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Buffers.xml
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Memory.xml
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.csprojAssemblyReference.cache
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.exe.config
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.Login.resources
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.Menu.resources
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.projetos.resources
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.Properties.Resources.resources
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.Resources.pedido.resources
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.Tela_Agendamento.resources
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.Tela_cliente.resources
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.Tela_funcionarios.resources
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.inicio.resources
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.Tela_orcamento.resources
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.Tela_projeto.resources
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.Tela_sobre.resources
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.csproj.GenerateResource.cache
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.csproj.CoreCompileInputs.cache
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.csproj.CopyComplete
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.exe
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\habitare (não versionado) - Copia de segurança\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.pdb
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\concept_architecture.exe.config
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\concept_architecture.exe
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\concept_architecture.pdb
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\netstandard.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.AppContext.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Collections.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.ComponentModel.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Console.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Data.Common.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Globalization.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.IO.Compression.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.IO.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.IO.Pipes.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Linq.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Net.Http.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Net.Ping.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Net.Primitives.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Net.Requests.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Net.Security.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Net.Sockets.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.ObjectModel.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Reflection.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Resources.Reader.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Resources.Writer.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Runtime.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Security.Claims.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Security.Principal.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Security.SecureString.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Text.Encoding.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Threading.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Threading.Thread.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Threading.Timer.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.ValueTuple.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Xml.XPath.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\EntityFramework.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\Google.Protobuf.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\MySql.Data.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\Renci.SshNet.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Buffers.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Memory.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\Zstandard.Net.dll
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\EntityFramework.xml
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\Google.Protobuf.xml
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\MySql.Data.xml
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\Renci.SshNet.xml
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Buffers.xml
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Memory.xml
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.csprojAssemblyReference.cache
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.exe.config
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.Login.resources
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.Menu.resources
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.projetos.resources
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.Properties.Resources.resources
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.Resources.pedido.resources
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.Tela_Agendamento.resources
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.Tela_cliente.resources
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.Tela_funcionarios.resources
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.inicio.resources
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.Tela_orcamento.resources
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.Tela_projeto.resources
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.Tela_sobre.resources
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.csproj.GenerateResource.cache
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.csproj.CoreCompileInputs.cache
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.csproj.CopyComplete
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.exe
+C:\Users\Isabella\Desktop\projeto de conclusão de curso\COPIA DE SEGURANÇA\habitare\habitare-novo-versionado\concept_architecture\obj\Debug\concept_architecture.pdb
